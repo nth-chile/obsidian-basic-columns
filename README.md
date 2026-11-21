@@ -67,6 +67,7 @@ Escape, or click below the section.
 | ↓ or → above a column section, ↑ or ← below it | Move into the columns |
 | ↑ on the first line / ↓ on the last line | Leave the column section |
 | Esc | Leave the column section |
+| Backspace just below a column section | Move to the end of the last column |
 | Cmd/Ctrl + Z | Undo, for the whole note, inside or outside columns |
 
 ## Commands
